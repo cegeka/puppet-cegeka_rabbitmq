@@ -13,6 +13,6 @@ Puppet::Type.type(:cegeka_rabbitmq_user_permissions).provide(:default) do
   end
 
   def default_fail
-    fail('This is just the default provider for rabbitmq_user, all it does is fail')
+    fail('This is just the default provider for cegeka_rabbitmq_user, all it does is fail')
   end
 end

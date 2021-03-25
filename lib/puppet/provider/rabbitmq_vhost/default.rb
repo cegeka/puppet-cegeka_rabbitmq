@@ -17,6 +17,6 @@ Puppet::Type.type(:cegeka_rabbitmq_vhost).provide(:default) do
   end
 
   def default_fail
-    fail('This is just the default provider for rabbitmq_vhost, all it does is fail')
+    fail('This is just the default provider for cegeka_rabbitmq_vhost, all it does is fail')
   end
 end
