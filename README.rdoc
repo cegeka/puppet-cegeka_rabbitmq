@@ -1,0 +1,5 @@
+= puppet-rabbitmq module
+
+{<img src='https://jenkins-iac.cegeka.be/job/puppet-rabbitmq/badge/icon' />}[https://jenkins-iac.cegeka.be/job/puppet-rabbitmq/]
+
+This is the rabbitmq module.
